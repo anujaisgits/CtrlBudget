@@ -1,5 +1,5 @@
 # CtrlBudget
-It is used to manage your budget.
+
 Hello Sir,
 The steps to run the project are as follows-
 1)first go to this url-localhost/include2/index_new.php
